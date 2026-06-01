@@ -10,5 +10,4 @@
 ## 목차
 | 주제 | 설명 |
 |---|---|
-| [softirq](./softirq) | Soft IRQ ftrace 관찰 |
-| [workqueue](./workqueue) | Work Queue latency 측정 및 Soft IRQ 비교 |
+| [interrupt-bottom-half](./interrupt-bottom-half) | Work Queue / Soft IRQ ftrace latency 비교 측정 |
